@@ -1,7 +1,7 @@
 // --- CONFIGURATION ---
 const API_KEY = 'AIzaSyDxSx1i7pEpjwAK4-LWuoS44crY0xi9HKo'; 
 const SPREADSHEET_ID = '1rZJ7Tu-huQi_EVVSjjy7uhUumaxbM08WwsKjtjYJCn0'; 
-const SHEET_NAME = 'Website Issue';
+const SHEET_NAME = 'Website Issues';
 const RANGE = 'A2:J'; 
 
 let allData = [];
